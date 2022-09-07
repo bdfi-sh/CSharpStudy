@@ -8,7 +8,7 @@
             //체력 0
             int hp;
 
-            hp = 100;
+            hp = 101;
             short level = 100;
             long id; //아이템 고유 번호 등
 
