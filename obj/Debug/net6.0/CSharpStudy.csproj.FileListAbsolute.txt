@@ -1,0 +1,15 @@
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/bin/Debug/net6.0/CSharpStudy
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/bin/Debug/net6.0/CSharpStudy.deps.json
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/bin/Debug/net6.0/CSharpStudy.runtimeconfig.json
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/bin/Debug/net6.0/CSharpStudy.dll
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/bin/Debug/net6.0/ref/CSharpStudy.dll
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/bin/Debug/net6.0/CSharpStudy.pdb
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.csproj.AssemblyReference.cache
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.AssemblyInfoInputs.cache
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.AssemblyInfo.cs
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.csproj.CoreCompileInputs.cache
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.dll
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/ref/CSharpStudy.dll
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.pdb
+/Users/mac_fox02/Documents/KSH/_Personal/CSharpStudy/obj/Debug/net6.0/CSharpStudy.genruntimeconfig.cache

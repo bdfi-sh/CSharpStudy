@@ -1,2 +1,2 @@
-# TypeScriptStudy
-Study TypeScript
+# C#Study
+Study C#
